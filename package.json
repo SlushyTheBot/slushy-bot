@@ -1,0 +1,17 @@
+{
+  "name": "slushy",
+  "version": "0.0.1",
+  "description": "un bot 100% francais multi-fonctions",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fs": "^0.0.1-security",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Katsuki  DZ",
+  "license": "ISC"
+}
